@@ -1,0 +1,42 @@
+.sobreHeader {
+    background-color: #E5E5E5;
+}
+
+/* .div__containerHeader--Header {} */
+
+.div__elementosHeader-Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 10px;
+    height: 70px;
+}
+
+.p__titulo--header {
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+.img__titulo--Header {
+    width: 27.3px;
+}
+
+.span__aluraTitulo--Header {
+    color: #2A7AE4;
+}
+
+.span__geek-Header {
+    color: black;
+}
+
+.button__login--Header{
+    width: 120px;
+    height: 35px;
+    border-radius: 20px;
+    border-color: #2A7AE4;
+    color: #2A7AE4;
+    font-family: sans-serif;
+    font-weight: 600;
+}
