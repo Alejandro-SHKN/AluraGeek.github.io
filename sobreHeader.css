@@ -1,7 +1,9 @@
 .sobreHeader {
     background-color: #E5E5E5;
 }
-
+.a__irIndex--Header{
+    text-decoration: none;
+}
 /* .div__containerHeader--Header {} */
 
 .div__elementosHeader-Header {
