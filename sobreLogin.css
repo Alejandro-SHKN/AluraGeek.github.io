@@ -9,14 +9,18 @@ height: 700px;
 
 .h2__IniciarSesión {
     font-family: 'Raleway', sans-serif;
-    display: flex;
+    /* display: flex; */
     font-size: 32px;
-    justify-content: center;
+    width: 80vw;
+    text-align: center;
+    margin: 30px auto;
+    
 }
 
 .input__login--Login {
     width: 80vw;
     height: 45px;
+    margin-top: 15px;
     margin-bottom: 1.5rem;
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
