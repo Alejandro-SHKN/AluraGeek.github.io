@@ -1,5 +1,5 @@
 .sobreFooter{
-    background-color: #EAF2FD;
+    background: linear-gradient(to bottom, #E5E5E5, #57d5ff);
 }
 .div__imagen-titulo{
     display: flex;
@@ -26,8 +26,9 @@
 .p__informacionFooter--Footer{
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
-    font-size: 22px;
-    color: black;
+    font-size: 20px;
+    color: #0f75fc;
+    margin: 10px;
 }
 /* .div__hableConNosotros--Footer{
 
