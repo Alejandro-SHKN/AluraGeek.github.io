@@ -1,9 +1,9 @@
 .sobreAddproducto{
-    background-color: #E5E5E5;
+    background-color: white;
 }
 .div__contenedorH2--Addproducto{
     width: 80vw;
-    margin: 0 0 auto;
+    margin: 1rem auto;
 }
 .h2__agregarProducto--Addproducto {
     font-family: 'Montserrat', sans-serif;
@@ -20,10 +20,12 @@
 .input__agregarProducto--Addproducto {
     width: 80vw;
     height: 60px;
-    border: none;
+    border: solid;
+    border-color: rgb(0, 140, 255);
+    background-color: rgb(238, 238, 238);
     margin-bottom: 1rem;
-    border-bottom: #E5E5E5;
-    border-radius: 5px;
+    /* border-bottom: #E5E5E5; */
+    border-radius: 10px;
     margin-bottom: 3rem;
     font-family: 'Montserrat', sans-serif;
 }
@@ -36,8 +38,9 @@
 
 .input__agregarProducto--Addproducto::placeholder {
     position: absolute;
-    text-align: left;
+    text-align: center;
     font-size: 14px;
+    color: rgb(0, 0, 0);
 }
 
 .input__agregarProducto--Addproducto.boton {
